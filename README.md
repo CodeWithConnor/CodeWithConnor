@@ -4,7 +4,7 @@
     <b>Welcome to my GitHub.</b><br><br>
     <i>
         I'm Connor.<br>
-        Integration developer working in logistics and software engineering fellow.<br>
+        An integration developer working in logistics and software engineering fellow.<br>
         Open to collaborations — please reach out!<br>
     </i><br>
 </p>
