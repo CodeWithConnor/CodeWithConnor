@@ -26,7 +26,7 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/CodeWithConnor)
 
 
-<details>
+<My Statistics>
 <p align="center">
   <a href="https://github.com/CodeWithConnor">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithConnor&theme=dark" />
