@@ -22,7 +22,7 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/CodeWithConnor)
 
 
-<statistics>
+<details>
 <p align="center">
   <a href="https://github.com/CodeWithConnor">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithConnor&theme=dark" />
@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithConnor&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=dark" />
   </a>
 </p>
-</statistics>
+</details>
 
 <p align="center">
   <a href="https://github.com/CodeWithConnor">
