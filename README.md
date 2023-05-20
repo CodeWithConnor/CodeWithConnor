@@ -1,11 +1,7 @@
-<h1 align="center">Hi there!:wave: </h1>
-
-<p align="center">
-    <b>Welcome to my GitHub.</b><br><br>
+<p align="left">
+    <b>Hi, I'm Connor!</b><br><br>
     <i>
-        I'm Connor.<br>
-        An integration developer working in logistics and software engineering fellow.<br>
-        Open to collaborations — please reach out!<br>
+        👨🏻‍💻 Integration Developer at Deugro | 🚀 Freelance Full Stack Developer |          📊 Student at 01Founders Coding School 📚
     </i><br>
 </p>
 
