@@ -1,7 +1,7 @@
 <p align="left">
     <b>Hi, I'm Connor!</b><br><br>
     <i>
-        👨🏻‍💻 Integration Developer at Deugro | 🚀 Freelance Full Stack Developer |          📊 Student at 01Founders Coding School 📚
+        Junior Full Stack Developer | JavaScript, Golang, Python, C#, React, TailwindCSS | Integration Specialist | Bootcamp Grad | 3+ Years Experience
     </i><br>
 </p>
 
