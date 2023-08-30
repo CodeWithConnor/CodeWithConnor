@@ -1,7 +1,7 @@
 <p align="left">
     <b>Hi, I'm Connor!</b><br><br>
     <i>
-        Hi, I'm Connor! A Junior Full Stack Developer with 3 Years of Commercial Experience. Bootcamp Grad.
+        An enthusiastic Junior Full Stack Developer from London. I have three years of commercial experience delivering projects as a Full Stack Developer. Currently, I'm working as an Integration Developer in the logistics industry. Check out my languages below (in order of proficiency).
     </i><br>
 </p>
 
