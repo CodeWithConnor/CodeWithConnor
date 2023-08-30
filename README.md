@@ -1,25 +1,28 @@
 <p align="left">
     <b>Hi, I'm Connor!</b><br><br>
     <i>
-        Junior Full Stack Developer | JavaScript, Golang, Python, C#, React, TailwindCSS | Integration Specialist | Bootcamp Grad | 3+ Years Experience
+        Hi, I'm Connor! A Junior Full Stack Developer with 3 Years of Commercial Experience. Bootcamp Grad.
     </i><br>
 </p>
 
-### Languages
+### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/CodeWithConnor)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/CodeWithConnor)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/CodeWithConnor)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/CodeWithConnor)
+[![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)](https://github.com/CodeWithConnor)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/CodeWithConnor)
+
+### Backend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/CodeWithConnor)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/CodeWithConnor)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/CodeWithConnor)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/CodeWithConnor)
-[![Pascal](https://img.shields.io/badge/Pascal-404D59?style=for-the-badge)](https://github.com/CodeWithConnor)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/CodeWithConnor)
 
-### Other Technologies & Frameworks
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/CodeWithConnor)
+### Databases
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/CodeWithConnor)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/CodeWithConnor)
+
+### Other Technologies
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/CodeWithConnor)
 
 
 <details>
