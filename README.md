@@ -1,7 +1,7 @@
 <p align="left">
     <b>Hi, I'm Connor!</b><br><br>
     <i>
-        An enthusiastic Junior Full Stack Developer based in London, with three years of commercial experience delivering projects across frontend, backend and full stack development. Currently, I'm currently an Integration Developer at deugro. Check out my languages below (in order of proficiency)."
+        An enthusiastic Junior Full Stack Developer based in London, with three years of commercial experience delivering projects across frontend, backend and full stack development. I'm currently an Integration Developer at deugro. Check out my languages below (in order of proficiency)."
     </i><br>
 </p>
 
